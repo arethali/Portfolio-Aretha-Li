@@ -313,7 +313,7 @@ const InternalConfig = function (initConfig) { // eslint-disable-line no-unused-
 		 * @default
 		 * @type {?string}
 		 */
-		mainPack: 'https://github.com/arethali/arethali.github.io/Portfolio-Aretha-Li/blob/main/index.pck?raw=true',
+		mainPack: null,
 		/**
 		 * Specify a language code to select the proper localization for the game.
 		 *
