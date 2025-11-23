@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1763882217|261653112';
+const CACHE_VERSION = '1763882847|891099234';
 /** @type {string} */
 const CACHE_PREFIX = 'Portfolio-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
